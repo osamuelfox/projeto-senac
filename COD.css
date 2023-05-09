@@ -1,0 +1,118 @@
+@import url('https://fonts.googleapis.com/css2?family=Alumni+Sans+Collegiate+One&family=Audiowide&family=Calligraffitti&family=Rubik+Mono+One&family=Silkscreen&display=swap');
+
+*{
+    margin:0px;
+    padding:0px;
+}
+
+body{
+
+    background-color: #ffff;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  
+}
+
+.header1{
+    background-color: black;
+}
+
+h1{
+    color:#3F4859;
+    text-align: center;
+    font-family: 'Audiowide', cursive;
+    font-size: 50px;
+}
+
+h2{
+    color: #586173;
+    text-align: center;
+    font-family:'Audiowide', cursive;
+    font-size: 30px;
+  
+}
+
+.header2{
+    padding: 40px;
+   
+    
+}
+
+ul{
+   
+  list-style-type: none;
+  margin: 0;
+  overflow: hidden;
+  background-color: #333;
+  position:relative;
+  top: 10px;
+  width: 100%;
+}
+
+
+li{
+    float: left;
+}
+
+ul li{
+   
+  color: white;
+  padding: 20px 10px;
+  text-decoration: none;
+
+}
+
+ul{
+    color:#3F4859;
+    font-size: 20px;
+    font-family: fantasy;
+
+}
+
+h3{
+
+    color:#181D26;
+}
+.section1{
+    background:#BFBFBF;
+    padding: 50px;
+    border: solid 1px;
+    border-color: #181D26;
+    margin-right: 5px;
+    margin: 10px;
+    
+}
+
+a{
+    color: #d8e47eec;
+}
+
+.p1{
+
+    background-color:#ADADAD;
+
+
+}
+
+
+
+tr th{
+    border: #181D26 solid;
+}
+
+tr td{
+    border: #181D26 solid;
+}
+
+.figure1{
+   
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.footer1 a {
+
+    color: #99D150;
+
+}
+
